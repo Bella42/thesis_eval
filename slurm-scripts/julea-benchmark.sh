@@ -46,7 +46,7 @@ do
     do 
         # ---------------- Output ----------------------------------------
         #  results-jbench/kv/kv-lmdb-jobid.tsv
-        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${kvServer}-${SLURM_JOBID}.tsv"
+        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${server}-${SLURM_JOBID}.tsv"
 
    
 
