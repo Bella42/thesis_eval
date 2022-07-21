@@ -48,15 +48,13 @@ do
         #  results-jbench/kv/kv-lmdb-jobid.tsv
         kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${server}-${SLURM_JOBID}.tsv"
 
-   
-
-        echo "# Runtime = $time" >> $kvServerFile
+        echo "# Runtime = $time" >> "${kvServerFile}"
         for iteration in $iterations
         do
-            echo "# Iteration = $iteration" >> $kvServerFile
+            echo "# Iteration = $iteration" >> "${kvServerFile}"
             # benchmark call
             # ./scripts/benchmark.sh -p /kv --duration=10 -v 2      
-            ./scripts/benchmark.sh -p /kv --duration=$time -v 2  >> $kvServerFile
+            ./scripts/benchmark.sh -p /kv --duration=$time -v 2  >> "${kvServerFile}"
         done
     done
 done
