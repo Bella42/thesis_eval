@@ -49,9 +49,11 @@ do
         # kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${server}-${SLURM_JOBID}.tsv"
         kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-${SLURM_JOBID}.tsv"
 
+        echo " " >> "${kvServerFile}"
         echo "# Runtime = $time" >> "${kvServerFile}"
         for iteration in $iterations
         do
+            # TODO: iterations loop missing
             echo "# Iteration = $iteration" >> "${kvServerFile}"
             # benchmark call
             # ./scripts/benchmark.sh -p /kv --duration=10 -v 2     
