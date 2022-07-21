@@ -14,13 +14,9 @@ kvClient="mongodb sqlite "
 
 dbClient="sqlite mariadb"
 
-# ---------------- Results ----------------------------------------
-#  results-jbench/kv/kv-lmdb-jobid.tsv
-kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${kvServer}-${SLURM_JOBID}.tsv"
+dbClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${dbClient}-${SLURM_JOBID}.tsv"
 
 kvClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${kvClient}-${SLURM_JOBID}.tsv"
-
-dbClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${dbClient}-${SLURM_JOBID}.tsv"
 
 
 
@@ -48,6 +44,12 @@ do
         
     for time in $runtime
     do 
+        # ---------------- Output ----------------------------------------
+        #  results-jbench/kv/kv-lmdb-jobid.tsv
+        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${kvServer}-${SLURM_JOBID}.tsv"
+
+   
+
         echo "# Runtime = $time" >> $kvServerFile
         for iteration in $iterations
         do
