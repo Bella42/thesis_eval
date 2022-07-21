@@ -54,8 +54,12 @@ do
         do
             echo "# Iteration = $iteration" >> "${kvServerFile}"
             # benchmark call
-            # ./scripts/benchmark.sh -p /kv --duration=10 -v 2      
-            ./home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2  >> "${kvServerFile}"
+            # ./scripts/benchmark.sh -p /kv --duration=10 -v 2     
+            julea-server &
+
+            /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2  >> "${kvServerFile}"
+
+            killall julea-server
         done
     done
 done
