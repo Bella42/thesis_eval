@@ -26,8 +26,8 @@ dbClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benc
 
 # ---------------- Cluster Setup ----------------------------------------
 
-. ~/home/urz/kduwe/original-julea/scripts/environment.sh
-echo ". ~/home/urz/kduwe/original-julea/scripts/environment.sh"
+. /home/urz/kduwe/original-julea/scripts/environment.sh
+echo ". /home/urz/kduwe/original-julea/scripts/environment.sh"
 
 
 # ---------------- KV ---
