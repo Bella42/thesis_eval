@@ -55,7 +55,7 @@ do
             echo "# Iteration = $iteration" >> "${kvServerFile}"
             # benchmark call
             # ./scripts/benchmark.sh -p /kv --duration=10 -v 2      
-            ./scripts/benchmark.sh -p /kv --duration=$time -v 2  >> "${kvServerFile}"
+            ./home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2  >> "${kvServerFile}"
         done
     done
 done
