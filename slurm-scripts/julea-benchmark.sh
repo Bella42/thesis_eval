@@ -6,7 +6,7 @@
 
 # ---------------- Parameters ----------------------------------------
 runtime="1 10 60"
-benchmarkType="kv db os"
+# benchmarkType="kv db os"
 iterations=10
 
 kvServer="lmdb leveldb rocksdb"
@@ -14,9 +14,9 @@ kvClient="mongodb sqlite "
 
 dbClient="sqlite mariadb"
 
-dbClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${dbClient}-${SLURM_JOBID}.tsv"
+# dbClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${dbClient}-${SLURM_JOBID}.tsv"
 
-kvClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${kvClient}-${SLURM_JOBID}.tsv"
+# kvClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${kvClient}-${SLURM_JOBID}.tsv"
 
 
 
@@ -46,7 +46,8 @@ do
     do 
         # ---------------- Output ----------------------------------------
         #  results-jbench/kv/kv-lmdb-jobid.tsv
-        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${server}-${SLURM_JOBID}.tsv"
+        # kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${server}-${SLURM_JOBID}.tsv"
+        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-${SLURM_JOBID}.tsv"
 
         echo "# Runtime = $time" >> "${kvServerFile}"
         for iteration in $iterations
