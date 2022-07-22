@@ -1,12 +1,11 @@
 #!/bin/bash
 
-#SBATCH -N 1 --ntasks-per-node=48
+#SBATCH -N 1 
 #SBATCH --partition=parcio
-# SBATCH --error=../../results/output/dbdo-mariadb-1node-%j.err --output=../../results/output/dbdo-mariadb-1node-%j.out
+# SBATCH --error=/home/urz/kduwe/thesis_eval/output/benchmark-%j.err --output=/home/urz/kduwe/thesis_eval/output/benchmark-%j.out
 
 # ---------------- Parameters ----------------------------------------
 runtime="1 10 60"
-# benchmarkType="kv db os"
 iterations=10
 
 kvServer="lmdb leveldb rocksdb"
@@ -14,13 +13,8 @@ kvClient="mongodb sqlite "
 
 dbClient="sqlite mariadb"
 
-# dbClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${dbClient}-${SLURM_JOBID}.tsv"
-
-# kvClientFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${kvClient}-${SLURM_JOBID}.tsv"
-
-
-
 # ---------------- Cluster Setup ----------------------------------------
+export JULEA_PREFIX="/home/urz/kduwe/julea-install"
 
 . /home/urz/kduwe/original-julea/scripts/environment.sh
 echo ". /home/urz/kduwe/original-julea/scripts/environment.sh"
@@ -29,7 +23,6 @@ echo ". /home/urz/kduwe/original-julea/scripts/environment.sh"
 # ---------------- KV ---
 for server in $kvServer
 do 
-    # config call
     julea-config --user \
     --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
     --object-backend=posix --object-component=server --object-path="/tmp/julea-$(id -u)/posix" \
@@ -46,22 +39,21 @@ do
     do 
         # ---------------- Output ----------------------------------------
         #  results-jbench/kv/kv-lmdb-jobid.tsv
-        # kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/${benchmarkType}/${benchmarkType}-${server}-${SLURM_JOBID}.tsv"
-        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-${SLURM_JOBID}.tsv"
+        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-$(hostname)-${SLURM_JOBID}.tsv"
 
         echo " " >> "${kvServerFile}"
         echo "# Runtime = $time" >> "${kvServerFile}"
-        for iteration in $iterations
+        
+        # for iteration in $iterations
+        for (it = 0; it < $iterations; it++)
         do
-            # TODO: iterations loop missing
-            echo "# Iteration = $iteration" >> "${kvServerFile}"
-            # benchmark call
-            # ./scripts/benchmark.sh -p /kv --duration=10 -v 2     
+            echo "# Iteration = $it" >> "${kvServerFile}"  
             julea-server &
 
             /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2  >> "${kvServerFile}"
 
             killall julea-server
+            rm -rf /tmp/julea-$(id -u)
         done
     done
 done
