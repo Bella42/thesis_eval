@@ -50,7 +50,7 @@ do
             echo "# Iteration = $it" >> "${kvServerFile}"  
             julea-server &
 
-            /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2  >> "${kvServerFile}"
+            /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2 -m  >> "${kvServerFile}"
 
             killall julea-server
             rm -rf /tmp/julea-$(id -u)
