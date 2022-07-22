@@ -45,7 +45,7 @@ do
         echo "# Runtime = $time" >> "${kvServerFile}"
         
         # for iteration in $iterations
-        for (it = 0; it < $iterations; it++)
+        for ((it = 0; it < $iterations; it++))
         do
             echo "# Iteration = $it" >> "${kvServerFile}"  
             julea-server &
