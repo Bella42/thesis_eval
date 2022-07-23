@@ -67,12 +67,15 @@ do
         #  results-jbench/kv/kv-lmdb-jobid.tsv
         kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-$(hostname)-${SLURM_JOBID}.tsv"
 
+        echo "${kvServerFile}"
+
         echo " " >> "${kvServerFile}"
         echo "# Runtime = $time" >> "${kvServerFile}"
         
         # for iteration in $iterations
         for ((it = 0; it < $iterations; it++))
         do
+            echo "Runtime = $time    Iteration = $it"
             echo " " >> "${kvServerFile}" 
             echo "# Iteration = $it" >> "${kvServerFile}"  
             julea-server &
@@ -167,12 +170,14 @@ do
         #  results-jbench/kv/kv-lmdb-jobid.tsv
         dbServerFile="/home/urz/kduwe/thesis_eval/results-jbench/db/db-${server}-$(hostname)-${SLURM_JOBID}.tsv"
 
+         echo "${dbServerFile}"
         echo " " >> "${dbServerFile}"
         echo "# Runtime = $time" >> "${kvServerFile}"
         
         # for iteration in $iterations
         for ((it = 0; it < $iterations; it++))
         do
+            echo "Runtime = $time    Iteration = $it"
             echo " " >> "${dbServerFile}" 
             echo "# Iteration = $it" >> "${dbServerFile}"  
             julea-server &
