@@ -10,8 +10,7 @@ runtime="1 10"
 iterations=1
 # iterations=10
 
-kvServer="lmdb leveldb rocksdb"
-kvClient="sqlite"
+kvServer="lmdb leveldb rocksdb sqlite sqlite-memory"
 # kvClient="mongodb sqlite"
 
 dbClient="sqlite mariadb"
@@ -33,18 +32,35 @@ singularity run --writable-tmpfs -B /tmp/kduwe/localdb:/var/lib/mysql --env MARI
 # ---------------- KV Server ---
 for server in $kvServer
 do 
-    julea-config --user \
-    --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
-    --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-    --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=server --db-path=":memory:"
-            
-    echo "julea-config --user \
-    --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
-    --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-    --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=server --db-path=":memory:""
-        
+
+    if [ "${server}" == "sqlite-memory" ];
+    then
+         julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+        --kv-backend=sqlite --kv-component=server --kv-path=":memory:" \
+        --db-backend=sqlite --db-component=server --db-path="/tmp/julea-${SLURM_JOBID}/sqlite-db"
+
+        echo "julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+        --kv-backend=sqlite --kv-component=server --kv-path=":memory" \
+        --db-backend=sqlite --db-component=server --db-path="/tmp/julea-${SLURM_JOBID}/sqlite-db""
+    else
+        julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+        --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
+        --db-backend=sqlite --db-component=server --db-path="/tmp/julea-${SLURM_JOBID}/sqlite-db"
+
+        echo "julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+        --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
+        --db-backend=sqlite --db-component=server --db-path="/tmp/julea-${SLURM_JOBID}/sqlite-db""
+    fi
+    
+
     for time in $runtime
     do 
         # ---------------- Output ----------------------------------------
@@ -69,44 +85,49 @@ do
     done
 done
 
-# ---------------- KV Server ---
-for server in $kvClient
-do 
-    julea-config --user \
-    --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
-    --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-    --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=server --db-path=":memory:"
-            
-    echo "julea-config --user \
-    --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
-    --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-    --kv-backend=${server} --kv-component=client --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=server --db-path=":memory:""
+# # ---------------- KV Server ---
+# for server in $kvClient
+# do 
+#     if [ "${server}" == "mongodb" ];
+#     then
+#         # julea-config --user \
+#         # --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+#         # --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+#         # --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
+#         # --db-backend=sqlite --db-component=server --db-path=":memory:"
+
+#         # echo "julea-config --user \
+#         # --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+#         # --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+#         # --kv-backend=${server} --kv-component=client --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
+#         # --db-backend=sqlite --db-component=server --db-path=":memory:""
+#     else
+
+#     fi
         
-    for time in $runtime
-    do 
-        # ---------------- Output ----------------------------------------
-        #  results-jbench/kv/kv-lmdb-jobid.tsv
-        kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-$(hostname)-${SLURM_JOBID}.tsv"
+#     for time in $runtime
+#     do 
+#         # ---------------- Output ----------------------------------------
+#         #  results-jbench/kv/kv-lmdb-jobid.tsv
+#         kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-$(hostname)-${SLURM_JOBID}.tsv"
 
-        echo " " >> "${kvServerFile}"
-        echo "# Runtime = $time" >> "${kvServerFile}"
+#         echo " " >> "${kvServerFile}"
+#         echo "# Runtime = $time" >> "${kvServerFile}"
         
-        # for iteration in $iterations
-        for ((it = 0; it < $iterations; it++))
-        do
-            echo " " >> "${kvServerFile}"  
-            echo "# Iteration = $it" >> "${kvServerFile}"  
-            julea-server &
+#         # for iteration in $iterations
+#         for ((it = 0; it < $iterations; it++))
+#         do
+#             echo " " >> "${kvServerFile}"  
+#             echo "# Iteration = $it" >> "${kvServerFile}"  
+#             julea-server &
 
-            /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2 -m  >> "${kvServerFile}"
+#             /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2 -m  >> "${kvServerFile}"
 
-            killall julea-server
-            rm -rf /tmp/julea-${SLURM_JOBID}
-        done
-    done
-done
+#             killall julea-server
+#             rm -rf /tmp/julea-${SLURM_JOBID}
+#         done
+#     done
+# done
 
 # ---------------- DB ---
 for server in $dbClient
@@ -116,26 +137,26 @@ do
         julea-config --user \
         --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
         --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-        --kv-backend=lmdb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/lmdb" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
         --db-backend=${server} --db-component=server --db-path=":memory:"
             
         echo " julea-config --user \
         --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
         --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-        --kv-backend=lmdb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/lmdb" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
         --db-backend=${server} --db-component=server --db-path=":memory:""
     else
          julea-config --user \
         --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
         --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-        --kv-backend=lmdb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/lmdb" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
         --db-backend=${server} --db-component=client --db-path="/tmp/kduwe/localdb:julea_db:julea_user:julea_pw"
         # --db-backend=${server} --db-component=client --db-path="$(hostname):julea_db:root"
 
         echo "julea-config --user \
         --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
         --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
-        --kv-backend=lmdb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/lmdb" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
         --db-backend=${server} --db-component=client --db-path="/tmp/kduwe/localdb:julea_db:julea_user:julea_pw""
     fi
     
