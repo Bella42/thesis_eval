@@ -18,8 +18,9 @@ dbClient="sqlite mariadb"
 # ---------------- Cluster Setup ----------------------------------------
 export JULEA_PREFIX="/home/urz/kduwe/julea-install"
 
-. /home/urz/kduwe/original-julea/scripts/environment.sh
-echo ". /home/urz/kduwe/original-julea/scripts/environment.sh"
+. /home/urz/kduwe/mein-julea/scripts/environment.sh
+echo ". /home/urz/kduwe/mein-julea/scripts/environment.sh"
+# echo ". /home/urz/kduwe/original-julea/scripts/environment.sh"
 
 spack load mysql
 
