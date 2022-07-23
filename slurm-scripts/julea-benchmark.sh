@@ -24,7 +24,7 @@ echo ". /home/urz/kduwe/mein-julea/scripts/environment.sh"
 
 spack load mysql
 
-mkdir /tmp/kduwe/localdb
+mkdir -p /tmp/kduwe/localdb
 
 singularity run --writable-tmpfs -B /tmp/kduwe/localdb:/var/lib/mysql --env MARIADB_RANDOM_ROOT_PASSWORD=yes --env MARIADB_DATABASE=julea_db --env MARIADB_USER=julea_user --env MARIADB_PASSWORD=julea_pw  mariadb.sif &
 
