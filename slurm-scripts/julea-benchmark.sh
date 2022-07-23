@@ -11,7 +11,8 @@ iterations=1
 # iterations=10
 
 kvServer="lmdb leveldb rocksdb"
-kvClient="mongodb sqlite "
+kvClient="sqlite"
+# kvClient="mongodb sqlite"
 
 dbClient="sqlite mariadb"
 
