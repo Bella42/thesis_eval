@@ -36,13 +36,13 @@ do
     --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
     --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
     --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=client --db-path=":memory:"
+    --db-backend=sqlite --db-component=server --db-path=":memory:"
             
     echo "julea-config --user \
     --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
     --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
     --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=client --db-path=":memory:""
+    --db-backend=sqlite --db-component=server --db-path=":memory:""
         
     for time in $runtime
     do 
@@ -75,13 +75,13 @@ do
     --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
     --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
     --kv-backend=${server} --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=client --db-path=":memory:"
+    --db-backend=sqlite --db-component=server --db-path=":memory:"
             
     echo "julea-config --user \
     --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
     --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
     --kv-backend=${server} --kv-component=client --kv-path="/tmp/julea-${SLURM_JOBID}/${server}" \
-    --db-backend=sqlite --db-component=client --db-path=":memory:""
+    --db-backend=sqlite --db-component=server --db-path=":memory:""
         
     for time in $runtime
     do 
@@ -116,13 +116,13 @@ do
         --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
         --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
         --kv-backend=lmdb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/lmdb" \
-        --db-backend=${server} --db-component=client --db-path=":memory:"
+        --db-backend=${server} --db-component=server --db-path=":memory:"
             
         echo " julea-config --user \
         --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
         --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
         --kv-backend=lmdb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/lmdb" \
-        --db-backend=${server} --db-component=client --db-path=":memory:""
+        --db-backend=${server} --db-component=server --db-path=":memory:""
     else
          julea-config --user \
         --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
