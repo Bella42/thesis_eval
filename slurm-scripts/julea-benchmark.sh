@@ -6,14 +6,17 @@
 
 # ---------------- Parameters ----------------------------------------
 runtime="1 10"
+runtimeDB="1 10 60"
 # runtime="1 10 60"
-iterations=1
-# iterations=10
+# iterations=1
+iterations=10
 
 kvServer="lmdb leveldb rocksdb sqlite sqlite-memory"
 # kvClient="mongodb sqlite"
 
 dbClient="sqlite mariadb"
+
+osServer="posix-local posix-ceph"
 
 # ---------------- Cluster Setup ----------------------------------------
 export JULEA_PREFIX="/home/urz/kduwe/julea-install"
@@ -66,6 +69,7 @@ do
         # ---------------- Output ----------------------------------------
         #  results-jbench/kv/kv-lmdb-jobid.tsv
         kvServerFile="/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-${server}-$(hostname)-${SLURM_JOBID}.tsv"
+        messageFile="/home/urz/kduwe/thesis_eval/results-jbench/misc/misc-${server}-$(hostname)-${SLURM_JOBID}.tsv"
 
         echo "${kvServerFile}"
 
@@ -81,6 +85,15 @@ do
             julea-server &
 
             /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /kv --duration=$time -v 2 -m  >> "${kvServerFile}"
+
+            # measure rest of benchmarks once as well (easier to call in here instead of writing another large loop)
+            if [ "${server}" == "leveldb" ];
+            then
+                echo "Runtime = $time    Iteration = $it"
+                echo " " >> "${messageFile}" 
+                echo "# Iteration = $it" >> "${messageFile}" 
+                /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /message --duration=$time -v 2 -m  >> "${messageFile}"
+            fi
 
             killall julea-server
             rm -rf /tmp/julea-${SLURM_JOBID}
@@ -164,13 +177,13 @@ do
     fi
     
         
-    for time in $runtime
+    for time in $runtimeDB
     do 
         # ---------------- Output ----------------------------------------
         #  results-jbench/kv/kv-lmdb-jobid.tsv
         dbServerFile="/home/urz/kduwe/thesis_eval/results-jbench/db/db-${server}-$(hostname)-${SLURM_JOBID}.tsv"
 
-         echo "${dbServerFile}"
+        echo "${dbServerFile}"
         echo " " >> "${dbServerFile}"
         echo "# Runtime = $time" >> "${kvServerFile}"
         
@@ -186,6 +199,66 @@ do
 
             killall julea-server
             rm -rf /tmp/julea-${SLURM_JOBID}
+        done
+    done
+done
+
+
+## ---------------- OS Server ---
+for server in $osServer
+do 
+
+    if [ "${server}" == "posix-local" ];
+    then
+        julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
+        --db-backend=sqlite --db-component=server --db-path=":memory:"
+            
+        echo "julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/tmp/julea-${SLURM_JOBID}/posix" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
+        --db-backend=sqlite --db-component=server --db-path=":memory:""
+    else
+        julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/home/urz/kduwe/julea-${SLURM_JOBID}/posix-ceph" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
+        --db-backend=sqlite --db-component=server --db-path=":memory:"
+
+        echo "julea-config --user \
+        --object-servers="$(hostname)" --kv-servers="$(hostname)" --db-servers="$(hostname)" \
+        --object-backend=posix --object-component=server --object-path="/home/urz/kduwe/julea-${SLURM_JOBID}/posix-ceph" \
+        --kv-backend=leveldb --kv-component=server --kv-path="/tmp/julea-${SLURM_JOBID}/leveldb" \
+        --db-backend=sqlite --db-component=server --db-path=":memory:""
+    fi
+    
+        
+    for time in $runtime
+    do 
+        # ---------------- Output ----------------------------------------
+        #  results-jbench/kv/kv-lmdb-jobid.tsv
+        osServerFile="/home/urz/kduwe/thesis_eval/results-jbench/os/os-${server}-$(hostname)-${SLURM_JOBID}.tsv"
+
+        echo "${osServerFile}"
+        echo " " >> "${osServerFile}"
+        echo "# Runtime = $time" >> "${osServerFile}"
+        
+        # for iteration in $iterations
+        for ((it = 0; it < $iterations; it++))
+        do
+            echo "Runtime = $time    Iteration = $it"
+            echo " " >> "${osServerFile}" 
+            echo "# Iteration = $it" >> "${osServerFile}"  
+            julea-server &
+
+            /home/urz/kduwe/original-julea/scripts/benchmark.sh -p /db --duration=$time -v 2 -m  >> "${osServerFile}"
+
+            killall julea-server
+            rm -rf /tmp/julea-${SLURM_JOBID}
+            rm -rf /home/urz/kduwe/julea-${SLURM_JOBID}
         done
     done
 done
