@@ -185,7 +185,7 @@ do
 
         echo "${dbServerFile}"
         echo " " >> "${dbServerFile}"
-        echo "# Runtime = $time" >> "${kvServerFile}"
+        echo "# Runtime = $time" >> "${dbServerFile}"
         
         # for iteration in $iterations
         for ((it = 0; it < $iterations; it++))

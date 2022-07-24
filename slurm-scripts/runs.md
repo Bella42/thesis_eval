@@ -18,6 +18,7 @@ JobID       Nodes       Final Run?      Script
 -----------------------------------------------------------------------------------------------------
 
 551444      ant11       ?              srun -p parcio -N 1 -w ant11 slurm-scripts/julea-benchmark.sh       
+551449      ant11                      srun -p parcio -N 1 -w ant11 slurm-scripts/julea-benchmark.sh
 
 
 
