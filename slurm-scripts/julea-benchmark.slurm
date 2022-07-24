@@ -11,7 +11,8 @@ runtimeDB="1 10 60"
 # iterations=1
 iterations=10
 
-kvServer="lmdb leveldb rocksdb sqlite sqlite-memory"
+kvServer=""
+#kvServer="lmdb leveldb rocksdb sqlite sqlite-memory"
 # kvClient="mongodb sqlite"
 
 dbClient="sqlite mariadb"
