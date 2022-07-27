@@ -1,0 +1,92 @@
+Dependency "meson" loaded: YES
+Dependency "pkgconf" loaded: YES
+Dependency "glib" loaded: YES
+Dependency "libbson" loaded: YES
+Dependency "libfabric fabrics=sockets,tcp,udp,verbs,rxd,rxm" loaded: YES
+Dependency "hdf5~mpi" loaded: YES
+Dependency "libfuse~utils" loaded: NO
+Dependency "lmdb" loaded: YES
+Dependency "sqlite" loaded: YES
+Dependency "leveldb" loaded: YES
+Dependency "mariadb-c-client" loaded: YES
+Dependency "mongo-c-driver" loaded: YES
+Dependency "otf" loaded: YES
+Dependency "rocksdb" loaded: YES
+. /home/urz/kduwe/mein-julea/scripts/environment.sh
+julea-config --user         --object-servers=ant18 --kv-servers=ant18 --db-servers=ant18         --object-backend=posix --object-component=server --object-path=/tmp/julea-551463/posix         --kv-backend=lmdb --kv-component=server --kv-path=/tmp/julea-551463/lmdb         --db-backend=sqlite --db-component=server --db-path=/tmp/julea-551463/sqlite-db
+/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-lmdb-ant18-551463.tsv
+Runtime = 1    Iteration = 0
+2022-07-26 09:24:27+02:00 [Note] [Entrypoint]: Entrypoint script for MariaDB Server 1:10.8.3+maria~jammy started.
+2022-07-26 09:24:28+02:00 [Note] [Entrypoint]: Initializing database files
+
+
+PLEASE REMEMBER TO SET A PASSWORD FOR THE MariaDB root USER !
+To do so, start the server, then issue the following command:
+
+'/usr/bin/mysql_secure_installation'
+
+which will also give you the option of removing the test
+databases and anonymous user created by default.  This is
+strongly recommended for production servers.
+
+See the MariaDB Knowledgebase at https://mariadb.com/kb
+
+Please report any problems at https://mariadb.org/jira
+
+The latest information about MariaDB is available at https://mariadb.org/.
+
+Consider joining MariaDB's strong and vibrant community:
+https://mariadb.org/get-involved/
+
+2022-07-26 09:24:29+02:00 [Note] [Entrypoint]: Database files initialized
+2022-07-26 09:24:29+02:00 [Note] [Entrypoint]: Starting temporary server
+2022-07-26 09:24:29+02:00 [Note] [Entrypoint]: Waiting for server startup
+2022-07-26 09:24:30+02:00 [Note] [Entrypoint]: Temporary server started.
+2022-07-26 09:24:31+02:00 [Note] [Entrypoint]: GENERATED ROOT PASSWORD: 5{o)5HW;KQ_[:%_ST(Av5=S7.J+cso{n
+2022-07-26 09:24:31+02:00 [Note] [Entrypoint]: Securing system users (equivalent to running mysql_secure_installation)
+2022-07-26 09:24:31+02:00 [Note] [Entrypoint]: Creating database julea_db
+2022-07-26 09:24:31+02:00 [Note] [Entrypoint]: Creating user julea_user
+2022-07-26 09:24:31+02:00 [Note] [Entrypoint]: Giving user julea_user access to schema julea_db
+
+2022-07-26 09:24:31+02:00 [Note] [Entrypoint]: Stopping temporary server
+2022-07-26 09:24:32+02:00 [Note] [Entrypoint]: Temporary server stopped
+
+2022-07-26 09:24:32+02:00 [Note] [Entrypoint]: MariaDB init process done. Ready for start up.
+
+Runtime = 1    Iteration = 1
+Runtime = 1    Iteration = 2
+Runtime = 1    Iteration = 3
+Runtime = 1    Iteration = 4
+Runtime = 1    Iteration = 5
+Runtime = 1    Iteration = 6
+Runtime = 1    Iteration = 7
+Runtime = 1    Iteration = 8
+Runtime = 1    Iteration = 9
+/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-lmdb-ant18-551463.tsv
+Runtime = 10    Iteration = 0
+Runtime = 10    Iteration = 1
+Runtime = 10    Iteration = 2
+Runtime = 10    Iteration = 3
+Runtime = 10    Iteration = 4
+Runtime = 10    Iteration = 5
+Runtime = 10    Iteration = 6
+Runtime = 10    Iteration = 7
+Runtime = 10    Iteration = 8
+Runtime = 10    Iteration = 9
+julea-config --user         --object-servers=ant18 --kv-servers=ant18 --db-servers=ant18         --object-backend=posix --object-component=server --object-path=/tmp/julea-551463/posix         --kv-backend=leveldb --kv-component=server --kv-path=/tmp/julea-551463/leveldb         --db-backend=sqlite --db-component=server --db-path=/tmp/julea-551463/sqlite-db
+/home/urz/kduwe/thesis_eval/results-jbench/kv/kv-leveldb-ant18-551463.tsv
+Runtime = 1    Iteration = 0
+Runtime = 1    Iteration = 0
+Runtime = 1    Iteration = 1
+Runtime = 1    Iteration = 1
+Runtime = 1    Iteration = 2
+Runtime = 1    Iteration = 2
+Runtime = 1    Iteration = 3
+Runtime = 1    Iteration = 3
+Runtime = 1    Iteration = 4
+Runtime = 1    Iteration = 4
+Runtime = 1    Iteration = 5
+Runtime = 1    Iteration = 5
+Runtime = 1    Iteration = 6
+Runtime = 1    Iteration = 6
+Runtime = 1    Iteration = 7

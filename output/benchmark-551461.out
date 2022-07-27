@@ -1,0 +1,44 @@
+Dependency "meson" loaded: YES
+Dependency "pkgconf" loaded: YES
+Dependency "glib" loaded: YES
+Dependency "libbson" loaded: YES
+Dependency "libfabric fabrics=sockets,tcp,udp,verbs,rxd,rxm" loaded: YES
+Dependency "hdf5~mpi" loaded: YES
+Dependency "libfuse~utils" loaded: NO
+Dependency "lmdb" loaded: YES
+Dependency "sqlite" loaded: YES
+Dependency "leveldb" loaded: YES
+Dependency "mariadb-c-client" loaded: YES
+Dependency "mongo-c-driver" loaded: YES
+Dependency "otf" loaded: YES
+Dependency "rocksdb" loaded: YES
+. /home/urz/kduwe/mein-julea/scripts/environment.sh
+ julea-config --user         --object-servers=ant11 --kv-servers=ant11 --db-servers=ant11         --object-backend=posix --object-component=server --object-path=/tmp/julea-551461/posix         --kv-backend=leveldb --kv-component=server --kv-path=/tmp/julea-551461/leveldb         --db-backend=sqlite --db-component=server --db-path=:memory:
+/home/urz/kduwe/thesis_eval/results-jbench/db/db-sqlite-ant11-551461.tsv
+Runtime = 1    Iteration = 0
+2022-07-26 09:17:54+02:00 [Note] [Entrypoint]: Entrypoint script for MariaDB Server 1:10.8.3+maria~jammy started.
+2022-07-26 09:17:54+02:00 [Note] [Entrypoint]: MariaDB upgrade not required
+Runtime = 1    Iteration = 1
+Runtime = 1    Iteration = 2
+Runtime = 1    Iteration = 3
+Runtime = 1    Iteration = 4
+Runtime = 1    Iteration = 5
+Runtime = 1    Iteration = 6
+Runtime = 1    Iteration = 7
+Runtime = 1    Iteration = 8
+Runtime = 1    Iteration = 9
+/home/urz/kduwe/thesis_eval/results-jbench/db/db-sqlite-ant11-551461.tsv
+Runtime = 10    Iteration = 0
+Runtime = 10    Iteration = 1
+Runtime = 10    Iteration = 2
+Runtime = 10    Iteration = 3
+Runtime = 10    Iteration = 4
+Runtime = 10    Iteration = 5
+Runtime = 10    Iteration = 6
+Runtime = 10    Iteration = 7
+Runtime = 10    Iteration = 8
+Runtime = 10    Iteration = 9
+/home/urz/kduwe/thesis_eval/results-jbench/db/db-sqlite-ant11-551461.tsv
+Runtime = 60    Iteration = 0
+Runtime = 60    Iteration = 1
+Runtime = 60    Iteration = 2

@@ -1,0 +1,56 @@
+Dependency "meson" loaded: YES
+Dependency "pkgconf" loaded: YES
+Dependency "glib" loaded: YES
+Dependency "libbson" loaded: YES
+Dependency "libfabric fabrics=sockets,tcp,udp,verbs,rxd,rxm" loaded: YES
+Dependency "hdf5~mpi" loaded: YES
+Dependency "libfuse~utils" loaded: NO
+Dependency "lmdb" loaded: YES
+Dependency "sqlite" loaded: YES
+Dependency "leveldb" loaded: YES
+Dependency "mariadb-c-client" loaded: YES
+Dependency "mongo-c-driver" loaded: YES
+Dependency "otf" loaded: YES
+Dependency "rocksdb" loaded: YES
+. /home/urz/kduwe/mein-julea/scripts/environment.sh
+ julea-config --user         --object-servers=ant17 --kv-servers=ant17 --db-servers=ant17         --object-backend=posix --object-component=server --object-path=/tmp/julea-551464/posix         --kv-backend=leveldb --kv-component=server --kv-path=/tmp/julea-551464/leveldb         --db-backend=sqlite --db-component=server --db-path=:memory:
+/home/urz/kduwe/thesis_eval/results-jbench/db/db-sqlite-ant17-551464.tsv
+Runtime = 1    Iteration = 0
+2022-07-26 09:26:07+02:00 [Note] [Entrypoint]: Entrypoint script for MariaDB Server 1:10.8.3+maria~jammy started.
+2022-07-26 09:26:08+02:00 [Note] [Entrypoint]: Initializing database files
+
+
+PLEASE REMEMBER TO SET A PASSWORD FOR THE MariaDB root USER !
+To do so, start the server, then issue the following command:
+
+'/usr/bin/mysql_secure_installation'
+
+which will also give you the option of removing the test
+databases and anonymous user created by default.  This is
+strongly recommended for production servers.
+
+See the MariaDB Knowledgebase at https://mariadb.com/kb
+
+Please report any problems at https://mariadb.org/jira
+
+The latest information about MariaDB is available at https://mariadb.org/.
+
+Consider joining MariaDB's strong and vibrant community:
+https://mariadb.org/get-involved/
+
+2022-07-26 09:26:09+02:00 [Note] [Entrypoint]: Database files initialized
+2022-07-26 09:26:09+02:00 [Note] [Entrypoint]: Starting temporary server
+2022-07-26 09:26:09+02:00 [Note] [Entrypoint]: Waiting for server startup
+2022-07-26 09:26:10+02:00 [Note] [Entrypoint]: Temporary server started.
+2022-07-26 09:26:11+02:00 [Note] [Entrypoint]: GENERATED ROOT PASSWORD: ag]-|pV+Yv-y[=33R{;lrLtq^;mrDEY9
+2022-07-26 09:26:11+02:00 [Note] [Entrypoint]: Securing system users (equivalent to running mysql_secure_installation)
+2022-07-26 09:26:11+02:00 [Note] [Entrypoint]: Creating database julea_db
+2022-07-26 09:26:11+02:00 [Note] [Entrypoint]: Creating user julea_user
+2022-07-26 09:26:11+02:00 [Note] [Entrypoint]: Giving user julea_user access to schema julea_db
+
+2022-07-26 09:26:11+02:00 [Note] [Entrypoint]: Stopping temporary server
+2022-07-26 09:26:12+02:00 [Note] [Entrypoint]: Temporary server stopped
+
+2022-07-26 09:26:12+02:00 [Note] [Entrypoint]: MariaDB init process done. Ready for start up.
+
+Runtime = 1    Iteration = 1

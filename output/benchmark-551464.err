@@ -1,0 +1,72 @@
+==> Error: Spec 'libfuse~utils' matches no installed packages.
+julea-server: no process found
+Dependencies have already been loaded, skipping.
+2022-07-26  9:26:08 0 [Warning] mariadbd: io_uring_queue_init() failed with ENOSYS: check seccomp filters, and the kernel version (newer than 5.1 required)
+2022-07-26  9:26:08 0 [Warning] InnoDB: liburing disabled: falling back to innodb_use_native_aio=OFF
+2022-07-26  9:26:09 0 [Note] mariadbd (server 10.8.3-MariaDB-1:10.8.3+maria~jammy) starting as process 435080 ...
+2022-07-26  9:26:09 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-07-26  9:26:09 0 [Note] InnoDB: Number of transaction pools: 1
+2022-07-26  9:26:09 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-07-26  9:26:09 0 [Warning] mariadbd: io_uring_queue_init() failed with ENOSYS: check seccomp filters, and the kernel version (newer than 5.1 required)
+2022-07-26  9:26:09 0 [Warning] InnoDB: liburing disabled: falling back to innodb_use_native_aio=OFF
+2022-07-26  9:26:09 0 [Note] InnoDB: Initializing buffer pool, total size = 128.000MiB, chunk size = 2.000MiB
+2022-07-26  9:26:09 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-07-26  9:26:09 0 [Note] InnoDB: File system buffers for log disabled (block size=512 bytes)
+2022-07-26  9:26:09 0 [Note] InnoDB: 128 rollback segments are active.
+2022-07-26  9:26:09 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2022-07-26  9:26:09 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2022-07-26  9:26:09 0 [Note] InnoDB: log sequence number 45505; transaction id 14
+2022-07-26  9:26:09 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-07-26  9:26:09 0 [Warning] 'user' entry 'root@ant17' ignored in --skip-name-resolve mode.
+2022-07-26  9:26:09 0 [Warning] 'proxies_priv' entry '@% root@ant17' ignored in --skip-name-resolve mode.
+2022-07-26  9:26:09 0 [Note] mariadbd: ready for connections.
+Version: '10.8.3-MariaDB-1:10.8.3+maria~jammy'  socket: '/run/mysqld/mysqld.sock'  port: 0  mariadb.org binary distribution
+Warning: Unable to load '/usr/share/zoneinfo/leap-seconds.list' as time zone. Skipping it.
+Warning: Unable to load '/usr/share/zoneinfo/leapseconds' as time zone. Skipping it.
+Warning: Unable to load '/usr/share/zoneinfo/tzdata.zi' as time zone. Skipping it.
+2022-07-26  9:26:11 0 [Note] mariadbd (initiated by: root[root] @ localhost []): Normal shutdown
+2022-07-26  9:26:11 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-07-26  9:26:11 0 [Note] InnoDB: Starting shutdown...
+2022-07-26  9:26:11 0 [Note] InnoDB: Dumping buffer pool(s) to /var/lib/mysql/ib_buffer_pool
+2022-07-26  9:26:11 0 [Note] InnoDB: Buffer pool(s) dump completed at 220726  9:26:11
+2022-07-26  9:26:12 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-07-26  9:26:12 0 [Note] InnoDB: Shutdown completed; log sequence number 46755; transaction id 15
+2022-07-26  9:26:12 0 [Note] mariadbd: Shutdown complete
+
+2022-07-26  9:26:12 0 [Note] mariadbd (server 10.8.3-MariaDB-1:10.8.3+maria~jammy) starting as process 434869 ...
+2022-07-26  9:26:12 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-07-26  9:26:12 0 [Note] InnoDB: Number of transaction pools: 1
+2022-07-26  9:26:12 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-07-26  9:26:12 0 [Warning] mariadbd: io_uring_queue_init() failed with ENOSYS: check seccomp filters, and the kernel version (newer than 5.1 required)
+2022-07-26  9:26:12 0 [Warning] InnoDB: liburing disabled: falling back to innodb_use_native_aio=OFF
+2022-07-26  9:26:12 0 [Note] InnoDB: Initializing buffer pool, total size = 128.000MiB, chunk size = 2.000MiB
+2022-07-26  9:26:12 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-07-26  9:26:12 0 [Note] InnoDB: File system buffers for log disabled (block size=512 bytes)
+2022-07-26  9:26:13 0 [Note] InnoDB: 128 rollback segments are active.
+2022-07-26  9:26:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2022-07-26  9:26:13 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2022-07-26  9:26:13 0 [Note] InnoDB: log sequence number 46755; transaction id 14
+2022-07-26  9:26:13 0 [Note] InnoDB: Loading buffer pool(s) from /var/lib/mysql/ib_buffer_pool
+2022-07-26  9:26:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-07-26  9:26:13 0 [Note] InnoDB: Buffer pool(s) load completed at 220726  9:26:13
+2022-07-26  9:26:13 0 [Warning] You need to use --log-bin to make --expire-logs-days or --binlog-expire-logs-seconds work.
+2022-07-26  9:26:13 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-07-26  9:26:13 0 [Note] Server socket created on IP: '::'.
+2022-07-26  9:26:13 0 [Note] mariadbd: ready for connections.
+Version: '10.8.3-MariaDB-1:10.8.3+maria~jammy'  socket: '/run/mysqld/mysqld.sock'  port: 3306  mariadb.org binary distribution
+**
+JULEA:ERROR:../benchmark/db/common.c:133:_benchmark_db_prepare_scheme: 'ret' should be TRUE
+/home/urz/kduwe/original-julea/scripts/benchmark.sh: line 45: 434910 Aborted                 (core dumped) julea-benchmark "$@"
+
+(julea-server:435496): JULEA-WARNING **: 09:26:38.122: Error binding to address [::]:5278: Address already in use
+Dependencies have already been loaded, skipping.
+
+(julea-benchmark:435515): JULEA-CRITICAL **: 09:26:38.265: Could not connect to ant17: Connection refused
+
+(julea-benchmark:435515): JULEA-CRITICAL **: 09:26:38.266: Can not connect to ant17 [1].
+
+(julea-benchmark:435515): JULEA-CRITICAL **: 09:26:38.267: j_helper_set_nodelay: assertion 'connection != NULL' failed
+
+(julea-benchmark:435515): JULEA-CRITICAL **: 09:26:38.268: j_message_send: assertion 'connection != NULL' failed
+
+(julea-benchmark:435515): JULEA-CRITICAL **: 09:26:38.269: j_message_receive: assertion 'connection != NULL' failed
