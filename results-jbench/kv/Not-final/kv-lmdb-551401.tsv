@@ -1,0 +1,36 @@
+ 
+# Runtime = 1
+# Iteration = 10
+Name                            Duration (Operations/s) (Throughput/s) [Total Duration] {min/mean/max/var} quantiles;0.990000;0.900000;0.100000;0.010000;
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+/kv/put:                        1.202 seconds (4161/s) [2.406 seconds] {?/?/?/?} --
+/kv/put-batch:                  1.197 seconds (4175/s) [2.423 seconds] {?/?/?/?} --
+/kv/get:                        1.000 seconds (73998/s) [1.490 seconds] {?/?/?/?} --
+/kv/get-batch:                  1.003 seconds (76732/s) [1.469 seconds] {?/?/?/?} --
+/kv/delete:                     1.219 seconds (4102/s) [2.412 seconds] {?/?/?/?} --
+/kv/delete-batch:               1.203 seconds (4157/s) [2.392 seconds] {?/?/?/?} --
+/kv/unordered-put-delete:       1.388 seconds (4321/s) [1.388 seconds] {?/?/?/?} --
+/kv/unordered-put-delete-batch: 1.362 seconds (4405/s) [1.362 seconds] {?/?/?/?} --
+ 
+# Runtime = 10
+# Iteration = 10
+Name                            Duration (Operations/s) (Throughput/s) [Total Duration] {min/mean/max/var} quantiles;0.990000;0.900000;0.100000;0.010000;
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+/kv/put:                        10.067 seconds (4172/s) [20.199 seconds] {?/?/?/?} --
+/kv/put-batch:                  10.029 seconds (4188/s) [20.193 seconds] {?/?/?/?} --
+/kv/get:                        10.004 seconds (74567/s) [10.484 seconds] {?/?/?/?} --
+/kv/get-batch:                  10.011 seconds (77218/s) [10.490 seconds] {?/?/?/?} --
+/kv/delete:                     10.233 seconds (4104/s) [20.247 seconds] {?/?/?/?} --
+/kv/delete-batch:               10.171 seconds (4130/s) [20.183 seconds] {?/?/?/?} --
+/kv/unordered-put-delete:       10.112 seconds (4351/s) [10.112 seconds] {?/?/?/?} --
+/kv/unordered-put-delete-batch: 10.061 seconds (4373/s) [10.061 seconds] {?/?/?/?} --
+ 
+# Runtime = 60
+# Iteration = 10
+Name                            Duration (Operations/s) (Throughput/s) [Total Duration] {min/mean/max/var} quantiles;0.990000;0.900000;0.100000;0.010000;
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+/kv/put:                        60.008 seconds (4166/s) [120.434 seconds] {?/?/?/?} --
+/kv/put-batch:                  60.102 seconds (4193/s) [121.070 seconds] {?/?/?/?} --
+/kv/get:                        60.012 seconds (74452/s) [60.492 seconds] {?/?/?/?} --
+/kv/get-batch:                  60.001 seconds (77181/s) [60.501 seconds] {?/?/?/?} --
+/kv/delete:                     

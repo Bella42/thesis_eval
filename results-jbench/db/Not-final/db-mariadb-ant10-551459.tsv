@@ -1,0 +1,84 @@
+ 
+# Runtime = 1
+ 
+# Iteration = 0
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 1
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 2
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 3
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 4
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 5
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 6
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 7
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 8
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 9
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Runtime = 10
+ 
+# Iteration = 0
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 1
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 2
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 3
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 4
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simpleBail out! JULEA:ERROR:../benchmark/db/iterator.c:75:_benchmark_db_get_simple: 'ret' should be TRUE
+ 
+# Iteration = 5
+# name	elapsed	operations	bytes	total_elapsed	min	max	mean	variation	0.990000	0.900000	0.100000	0.010000
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/db/iterator/get-simple
