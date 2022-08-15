@@ -1,0 +1,94 @@
+# --- QueryAdios time in mikroseconds ---
+# MPI_Comm_size: 1
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 4096 	 4096 	 100 	 10
+# Iteration = 1
+
+# Read 	 Compute 	 Analysis
+2039 	 2039 	 2039
+298639815 	 298639815 	 298639815
+1679 	 1679 	 1679
+1065 	 1065 	 1065
+Total runtime = 298.65s
+
+# Iteration = 2
+
+# Read 	 Compute 	 Analysis
+1921 	 1921 	 1921
+294346256 	 294346256 	 294346256
+1493 	 1493 	 1493
+1040 	 1040 	 1040
+Total runtime = 294.358s
+
+# Iteration = 3
+
+# Read 	 Compute 	 Analysis
+1911 	 1911 	 1911
+303204002 	 303204002 	 303204002
+1529 	 1529 	 1529
+1076 	 1076 	 1076
+Total runtime = 303.214s
+
+# Iteration = 4
+
+# Read 	 Compute 	 Analysis
+1829 	 1829 	 1829
+291240579 	 291240579 	 291240579
+1635 	 1635 	 1635
+1050 	 1050 	 1050
+Total runtime = 291.251s
+
+# Iteration = 5
+
+# Read 	 Compute 	 Analysis
+2074 	 2074 	 2074
+293924691 	 293924691 	 293924691
+1440 	 1440 	 1440
+1059 	 1059 	 1059
+Total runtime = 293.945s
+
+# Iteration = 6
+
+# Read 	 Compute 	 Analysis
+1779 	 1779 	 1779
+301320168 	 301320168 	 301320168
+1535 	 1535 	 1535
+1065 	 1065 	 1065
+Total runtime = 301.331s
+
+# Iteration = 7
+
+# Read 	 Compute 	 Analysis
+1953 	 1953 	 1953
+303847838 	 303847838 	 303847838
+1540 	 1540 	 1540
+1061 	 1061 	 1061
+Total runtime = 303.858s
+
+# Iteration = 8
+
+# Read 	 Compute 	 Analysis
+1919 	 1919 	 1919
+300358607 	 300358607 	 300358607
+1809 	 1809 	 1809
+1091 	 1091 	 1091
+Total runtime = 300.368s
+
+# Iteration = 9
+
+# Read 	 Compute 	 Analysis
+1923 	 1923 	 1923
+301785975 	 301785975 	 301785975
+1650 	 1650 	 1650
+1050 	 1050 	 1050
+Total runtime = 301.796s
+
+# Iteration = 10
+
+# Read 	 Compute 	 Analysis
+1846 	 1846 	 1846
+301832746 	 301832746 	 301832746
+1735 	 1735 	 1735
+1040 	 1040 	 1040
+Total runtime = 301.842s
+

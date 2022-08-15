@@ -1,0 +1,105 @@
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: mein-adios-fork/examples/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 4096 	 4096 	 100 	 10

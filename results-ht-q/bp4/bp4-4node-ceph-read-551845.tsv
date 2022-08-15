@@ -1,0 +1,4521 @@
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+Not enough arguments  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+Not enough arguments  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsUsage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+Not enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Not enough argumentsNot enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough argumentsNot enough argumentsUsage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough argumentsNot enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+
+Not enough arguments
+Usage: heatRead  config  input  output N  M 
+  config:  XML config file to use
+  input:   name of input data file/stream
+  output:  name of output data file/stream
+  N:       number of processes in X dimension
+  M:       number of processes in Y dimension
+

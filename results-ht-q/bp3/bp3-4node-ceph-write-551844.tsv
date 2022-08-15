@@ -1,0 +1,1761 @@
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 4
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 1024 	 1024 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:33 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:33 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:33 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:33 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 4
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 2048 	 2048 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:35 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:35 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:35 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:35 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 4
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 4096 	 4096 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 12
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 1024 	 1024 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:37 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 12
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 2048 	 2048 	 100 	 10
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:39 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 12
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 4096 	 4096 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:41 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 24
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 1024 	 1024 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:43 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 24
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 2048 	 2048 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:45 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 24
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 4096 	 4096 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:47 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 48
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 1024 	 1024 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:50 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 48
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 2048 	 2048 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:52 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 48
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 4096 	 4096 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:54 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 96
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 1024 	 1024 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:58:57 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 96
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 2048 	 2048 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:00 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+# --- Write time in mikroseconds ---
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# outputfile: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# MPI_Comm_size: 96
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 4096 	 4096 	 100 	 10
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+Exception caught
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+
+Exception caught
+[1;36m[Fri Aug  5 17:59:03 2022][1;34m [ADIOS2 EXCEPTION][0m <Core> <ADIOS> <ADIOS> : config file ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml not found[0m
+

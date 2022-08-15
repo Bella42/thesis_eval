@@ -1,0 +1,105 @@
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 1024 	 1024 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 2048 	 2048 	 100 	 10
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp4_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp4-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp4-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+ 	  	 4096 	 4096 	 100 	 10

@@ -1,0 +1,252 @@
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 1024 	 1024 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3271237 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 2048 	 2048 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3271387 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 4
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+2 	 2 	 4096 	 4096 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3271508 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 1024 	 1024 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3271626 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 2048 	 2048 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3271774 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 12
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+4 	 3 	 4096 	 4096 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3271912 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 1024 	 1024 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3272071 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Terminated (signal 15)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 2048 	 2048 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3272265 RUNNING AT ant17
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Terminated (signal 15)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 24
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+6 	 4 	 4096 	 4096 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3272604 RUNNING AT ant17
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Terminated (signal 15)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 1024 	 1024 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3272860 RUNNING AT ant17
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 2048 	 2048 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3273095 RUNNING AT ant17
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 48
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+8 	 6 	 4096 	 4096 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3273334 RUNNING AT ant17
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 1024 	 1024 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3273648 RUNNING AT ant17
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 2048 	 2048 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3274012 RUNNING AT ant17
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+# --- Read time in mikroseconds ---
+# MPI_Comm_size: 96
+# configfile: ../examples/julea_EuroSys2021/heatTransfer/heat_bp3_sync.xml
+# inputOutput: /home/urz/kduwe/ht-output/heat-bp3-4nodes.bp
+# analysisOutput: /home/urz/kduwe/ht-output/heat-bp3-analysis-output.bp
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 4096 	 4096 	 100 	 10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 3274361 RUNNING AT ant17
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
