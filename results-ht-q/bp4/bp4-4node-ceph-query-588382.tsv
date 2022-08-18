@@ -1,0 +1,210 @@
+# --- QueryAdios time in mikroseconds ---
+# MPI_Comm_size: 1
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 1024 	 1024 	 100 	 10
+# Iteration = 1
+
+# Read 	 Compute 	 Analysis
+6559 	 6559 	 6559
+118371896 	 118371896 	 118371896
+4660 	 4660 	 4660
+228509218 	 228509218 	 228509218
+Total runtime = 346.898s
+
+# Iteration = 2
+
+# Read 	 Compute 	 Analysis
+6103 	 6103 	 6103
+16727961 	 16727961 	 16727961
+5289 	 5289 	 5289
+227572635 	 227572635 	 227572635
+Total runtime = 244.317s
+
+# Iteration = 3
+
+# Read 	 Compute 	 Analysis
+6461 	 6461 	 6461
+16049274 	 16049274 	 16049274
+5290 	 5290 	 5290
+227945671 	 227945671 	 227945671
+Total runtime = 244.012s
+
+# Iteration = 4
+
+# Read 	 Compute 	 Analysis
+6130 	 6130 	 6130
+15936885 	 15936885 	 15936885
+5669 	 5669 	 5669
+228088352 	 228088352 	 228088352
+Total runtime = 244.042s
+
+# Iteration = 5
+
+# Read 	 Compute 	 Analysis
+6116 	 6116 	 6116
+15932713 	 15932713 	 15932713
+5254 	 5254 	 5254
+228157439 	 228157439 	 228157439
+Total runtime = 244.107s
+
+# Iteration = 6
+
+# Read 	 Compute 	 Analysis
+6258 	 6258 	 6258
+15405203 	 15405203 	 15405203
+5785 	 5785 	 5785
+227353702 	 227353702 	 227353702
+Total runtime = 242.776s
+
+# Iteration = 7
+
+# Read 	 Compute 	 Analysis
+6421 	 6421 	 6421
+15949683 	 15949683 	 15949683
+4989 	 4989 	 4989
+227863437 	 227863437 	 227863437
+Total runtime = 243.83s
+
+# Iteration = 8
+
+# Read 	 Compute 	 Analysis
+6480 	 6480 	 6480
+15449492 	 15449492 	 15449492
+5595 	 5595 	 5595
+227398272 	 227398272 	 227398272
+Total runtime = 242.865s
+
+# Iteration = 9
+
+# Read 	 Compute 	 Analysis
+6262 	 6262 	 6262
+16032619 	 16032619 	 16032619
+5285 	 5285 	 5285
+227682824 	 227682824 	 227682824
+Total runtime = 243.732s
+
+# Iteration = 10
+
+# Read 	 Compute 	 Analysis
+6313 	 6313 	 6313
+15952838 	 15952838 	 15952838
+5702 	 5702 	 5702
+227908535 	 227908535 	 227908535
+Total runtime = 243.879s
+
+# File Size:
+total 152G
+drwxr-xr-x. 2 kduwe iks    7 Aug 18 02:34 .
+drwxr-xr-x. 4 kduwe iks    2 Aug 18 02:34 ..
+-rw-r--r--. 1 kduwe iks  38G Aug 18 02:34 data.0
+-rw-r--r--. 1 kduwe iks  38G Aug 18 02:34 data.1
+-rw-r--r--. 1 kduwe iks  38G Aug 18 02:34 data.2
+-rw-r--r--. 1 kduwe iks  38G Aug 18 02:34 data.3
+-rw-r--r--. 1 kduwe iks 2.3M Aug 18 02:34 md.0
+-rw-r--r--. 1 kduwe iks 6.4K Aug 18 02:34 md.idx
+-rw-r--r--. 1 kduwe iks  23K Aug 18 02:34 profiling.json
+# --- QueryAdios time in mikroseconds ---
+# MPI_Comm_size: 1
+# N 	 M 	 nx 	 ny 	 steps 	 iterations
+12 	 8 	 2048 	 2048 	 100 	 10
+# Iteration = 1
+
+# Read 	 Compute 	 Analysis
+6518 	 6518 	 6518
+267146730 	 267146730 	 267146730
+5257 	 5257 	 5257
+965410626 	 965410626 	 965410626
+Total runtime = 1232.58s
+
+# Iteration = 2
+
+# Read 	 Compute 	 Analysis
+6042 	 6042 	 6042
+270027449 	 270027449 	 270027449
+5115 	 5115 	 5115
+961841435 	 961841435 	 961841435
+Total runtime = 1231.9s
+
+# Iteration = 3
+
+# Read 	 Compute 	 Analysis
+6104 	 6104 	 6104
+264501930 	 264501930 	 264501930
+5289 	 5289 	 5289
+959382141 	 959382141 	 959382141
+Total runtime = 1223.91s
+
+# Iteration = 4
+
+# Read 	 Compute 	 Analysis
+6191 	 6191 	 6191
+270231446 	 270231446 	 270231446
+5548 	 5548 	 5548
+958293345 	 958293345 	 958293345
+Total runtime = 1228.55s
+
+# Iteration = 5
+
+# Read 	 Compute 	 Analysis
+6541 	 6541 	 6541
+265179759 	 265179759 	 265179759
+5418 	 5418 	 5418
+958324960 	 958324960 	 958324960
+Total runtime = 1223.53s
+
+# Iteration = 6
+
+# Read 	 Compute 	 Analysis
+6097 	 6097 	 6097
+274678850 	 274678850 	 274678850
+5765 	 5765 	 5765
+960671927 	 960671927 	 960671927
+Total runtime = 1235.38s
+
+# Iteration = 7
+
+# Read 	 Compute 	 Analysis
+6219 	 6219 	 6219
+275617501 	 275617501 	 275617501
+5176 	 5176 	 5176
+959326371 	 959326371 	 959326371
+Total runtime = 1234.97s
+
+# Iteration = 8
+
+# Read 	 Compute 	 Analysis
+6355 	 6355 	 6355
+280485006 	 280485006 	 280485006
+5079 	 5079 	 5079
+960851685 	 960851685 	 960851685
+Total runtime = 1241.36s
+
+# Iteration = 9
+
+# Read 	 Compute 	 Analysis
+6306 	 6306 	 6306
+287158954 	 287158954 	 287158954
+5706 	 5706 	 5706
+960479473 	 960479473 	 960479473
+Total runtime = 1247.67s
+
+# Iteration = 10
+
+# Read 	 Compute 	 Analysis
+6838 	 6838 	 6838
+279518004 	 279518004 	 279518004
+5899 	 5899 	 5899
+960014228 	 960014228 	 960014228
+Total runtime = 1239.56s
+
+# File Size:
+total 607G
+drwxr-xr-x. 2 kduwe iks    7 Aug 18 03:24 .
+drwxr-xr-x. 4 kduwe iks    2 Aug 18 03:24 ..
+-rw-r--r--. 1 kduwe iks 152G Aug 18 03:24 data.0
+-rw-r--r--. 1 kduwe iks 152G Aug 18 03:24 data.1
+-rw-r--r--. 1 kduwe iks 152G Aug 18 03:24 data.2
+-rw-r--r--. 1 kduwe iks 152G Aug 18 03:24 data.3
+-rw-r--r--. 1 kduwe iks 2.3M Aug 18 03:24 md.0
+-rw-r--r--. 1 kduwe iks 6.4K Aug 18 03:24 md.idx
+-rw-r--r--. 1 kduwe iks  23K Aug 18 03:24 profiling.json
